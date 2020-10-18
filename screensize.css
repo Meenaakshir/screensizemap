@@ -1,0 +1,58 @@
+body {
+  margin-top: 140px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#index-setting1 {
+  max-width: 500px;
+  max-height: 50px;
+  margin-left: 550px;
+}
+.main-title {
+  font-family: cursive;
+  color: black;
+  font-size: 22px;
+  margin-top: 5px;
+  padding-top: 9px;
+  margin-bottom: 10px;
+  margin-left: 580px;
+}
+#framed-index1 {
+  border-radius: 8px;
+  background: #dadada;
+  padding: 2px;
+  width: 12px;
+  height: 5vpx;
+  font-size: 8px;
+  margin-left: 0.5px;
+  margin-top: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+#framed-index2 {
+  width: 3px;
+  height: 2px;
+  padding: 3px;
+  border: none;
+  background-color: #dadada;
+  font-size: 8px;
+}
+#framed-index3 {
+  width: 6px;
+  height: 2px;
+  padding: 3px;
+  border: none;
+  background-color: #dadada;
+  font-size: 8px;
+}
+
+#framed-index4 {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background: #dadada;
+  padding: 2px;
+  width: 8px;
+  height: 2px;
+  font-size: 8px;
+}
